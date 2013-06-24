@@ -1,0 +1,38 @@
+body {
+	background-color: rgba(0,0,255,0.1);
+	padding-top: 100px;
+}
+
+.span3 {
+	border-radius: 5px;
+	background-color: white;
+	padding: 0;
+}
+
+.span12 {
+	border-radius: 5px;
+	background-color: white;
+	word-wrap: break-word;
+}
+
+.sidemenu {
+	padding: 5px;
+	border-bottom: 1px solid #999;
+	margin: 0px;
+}
+
+.sidemenu:hover {
+	font-color: blue;
+}
+
+.box {
+	padding-bottom: 5px;
+	border-bottom: 1px solid #999;
+}
+
+.image {
+	border: 1px solid black;
+	width: 1170px;
+	
+}
+	
